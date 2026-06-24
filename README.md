@@ -21,11 +21,8 @@ An end-to-end machine learning pipeline that predicts customer churn for a telec
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://img.shields.io/badge/🔴%20Live%20App-Streamlit-FF4B4B?style=for-the-badge)](https://your-app-link-here.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/🔴%20Live%20App-Streamlit-FF4B4B?style=for-the-badge)](https://customer-churn-predict-model.streamlit.app/)
 
-> *(Deploy to Streamlit Cloud and replace the link above)*
-
----
 
 ## 📁 Project Structure
 
@@ -131,7 +128,7 @@ jupyter notebook churn.ipynb
 
 **4. Launch the Streamlit app**
 ```bash
-streamlit run churn_dashboard.py
+streamlit run Churn_prediction.py
 ```
 
 ---
@@ -166,7 +163,7 @@ openpyxl
 **Sayyeda Khuld**  
 ML Engineering Intern @ FlyRank AI · BSc Information Technology, University of Education Lahore
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayyedakhuld--analyst-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sayyedakhuld-analyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayyedakhuld--analyst-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sayyedakhuld)
 [![GitHub](https://img.shields.io/badge/GitHub-Khuld13-181717?style=flat&logo=github)](https://github.com/Khuld13)
 
 ---
